@@ -1,0 +1,8 @@
+a = ("apple","orange","yash","yash","1","shivam","True","False","45","890")
+print(a)
+print(type(a))
+print(len(a))
+no = a.count("yash")
+print(no)
+i = a.index("yash")
+print(i)
