@@ -54,3 +54,17 @@ This project demonstrates Python functions, lists, dictionaries, loops, exceptio
 
 AI & Data Science Engineering Student
 Vaibhavi Kolhe
+
+## 📸 Project Screenshots
+
+### 1. Main Menu
+
+![Expense Tracker Main Menu](screenshots/main_menu.png)
+
+### 2. Expense Records
+
+![Expense Tracker Expense Records](screenshots/expense_records.png)
+
+### 3. Monthly Budget Summary
+
+![Expense Tracker Budget Summary](screenshots/budget_summary.png)
